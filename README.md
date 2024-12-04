@@ -1,7 +1,7 @@
 # praticagit oiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii to mexenodo no arquivo
 # praticagit
 
-![cover](https://raw.githubusercontent.com/qxcodepoo/arcade/master/base/budega/cover.jpg)
+![cover](./WhatsApp%20Image%202024-12-04%20at%2014.40.09.jpeg)
 
 Javascript > Java
 
