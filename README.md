@@ -1,6 +1,5 @@
+# praticagit oiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii to mexenodo no arquivo
+# praticagit
 
-# praticagit oiii to mexenodo no arquivo
-=======
-
-Javascript > Java.... Fatos
+Javascript > Java
 
