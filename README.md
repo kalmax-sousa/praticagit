@@ -13,4 +13,6 @@ int main(){
 }
 fein fein 
 fein fein fein fein fein
-travis scott 
+travis scott
+
+![cover](https://www.quixada.ufc.br/wp-content/uploads/2015/05/David-Sena-Oliveira-Final1-225x300.png)
