@@ -1,6 +1,15 @@
 # praticagit oiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii to mexenodo no arquivo
 # praticagit
+<<<<<<< HEAD
 mudei
+=======
+
+Integrantes
+- Narciso
+- Rodrigo
+- Letícia
+
+>>>>>>> 29884023846ac533afcc52773e339694c27daa4c
 ![cover](./WhatsApp%20Image%202024-12-04%20at%2014.40.09.jpeg)
 
 Javascript > Java
